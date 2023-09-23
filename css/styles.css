@@ -1,3 +1,10 @@
+:root {
+  --color-granite: rgb(37 38 41 / 100%);
+  --color-nemo: #ff4a11;
+  --color-foam: white;
+  --border-radius: 4px;
+  --letter-spacing: 0.025em;
+}
 *,
 *::before,
 *::after {
